@@ -1,9 +1,10 @@
 {
-    "name": "screensaver examples",
+    "name": "Screensaver Animation Updated",
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
